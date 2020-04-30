@@ -1,0 +1,6 @@
+libraries:
+    node:
+        label: 'PMX-JENKINS-TEMPLATE'
+    load_parameters:
+    maven:
+    scm_init:
